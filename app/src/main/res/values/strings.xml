@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="add_city_button">Добавить город</string>
+    <string name="weather">Погода</string>
+    <string name="temperature">Текущая температура</string>
+    <string name="show_3">Показать прогноз на 3 дня</string>
+</resources>

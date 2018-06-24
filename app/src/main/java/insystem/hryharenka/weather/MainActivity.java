@@ -81,11 +81,11 @@ public class MainActivity extends AppCompatActivity {
         mRecyclerView.addItemDecoration(dividerItemDecoration);
         List<City> cityList = new ArrayList<>();
         City city = new City();
-        city.setId(5601538);
+        city.setId(524901);
         city.setName("Moscow");
         cityList.add(city);
         city = new City();
-        city.setId(4171563);
+        city.setId(498817);
         city.setName("Saint Petersburg");
         cityList.add(city);
 
